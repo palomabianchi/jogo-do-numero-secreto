@@ -1,1 +1,1 @@
-Esse projeto foi realizado na formação Iniciante em Programação G8 - ONE (curso Lógica de programação) da Oracle Next Education em parceria com a Alura.Aprendi como preparar o ambiente de desenvolvimento até a criação de um jogo completo com diferentes interações.
+Esse projeto foi realizado na formação Iniciante em Programação G8 - ONE (curso Lógica de Programação) da Oracle Next Education em parceria com a Alura.Aprendi como preparar o ambiente de desenvolvimento até a criação de um jogo completo com diferentes interações.
